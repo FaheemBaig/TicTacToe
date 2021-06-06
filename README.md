@@ -1,2 +1,5 @@
 # TicTacToe
-the java file uploaded before was accidently the file from previous assignment.. i have uploaded the right file now
+A Java Desktop Application covering the concepts of OOP, OOAD and file handling
+# Key Features
+it is 4x4 tic tac toe
+it check diagonal enteries as well as vertical and horizontal
